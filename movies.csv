@@ -1,51 +1,51 @@
 Movie ID,Title,Release Date,Genre,Director,Actors,Budget,Revenue,Duration,Rating,Awards
-1,Sunrise Boulevard,2018-01-15,Drama,Alan Smithee,Emma Stone,"20,150,120,8.2",Best Drama
-2,Galactic Odyssey,2020-05-22,Sci-Fi,Betty White,Chris Evans,"180,600,140,8.5",Best Visual Effects
-3,Mystery Mansion,2019-10-30,Mystery,Charles Brown,Daniel Craig,"50,200,130,7.8",Best Mystery
-4,Love in Tokyo,2021-02-14,Romance,Diana Prince,Anne Hathaway,"30,120,110,7.5",Best Romance
-5,The Final Battle,2017-11-22,Action,Ethan Hunt,Tom Cruise,"200,800,150,8.7",Best Action
-6,Future Horizons,2022-01-10,Sci-Fi,Fiona Gallagher,Scarlett Johansson,"150,500,135,8.0",Best Sci-Fi
-7,Haunted House,2016-10-31,Horror,George Lucas,Jamie Lee Curtis,"40,100,100,6.9",Best Horror
-8,Ocean's Melody,2018-06-18,Adventure,Hannah Montana,Leonardo DiCaprio,"70,250,125,8.1",Best Adventure
-9,Urban Myths,2019-09-05,Horror,Ian Fleming,Jennifer Lawrence,"60,180,115,7.0",Best Sound Editing
-10,Silent Echoes,2020-12-25,Thriller,Jake Long,Benedict Cumberbatch,"55,160,120,7.6",Best Thriller
-11,Desert Storm,2017-04-10,War,Karen Page,Mark Wahlberg,"120,400,155,7.9",Best War
-12,Autumn Leaves,2021-10-01,Romance,Liam Neeson,Mila Kunis,"25,90,100,7.4",Best Cinematography
-13,Space Frontier,2018-03-22,Sci-Fi,Mary Jane,Chris Hemsworth,"220,850,160,8.7",Best Director
-14,Shadow Realm,2019-08-30,Fantasy,Nancy Drew,Robert Downey Jr.,"95,300,135,7.8",Best Makeup
-15,Midnight Chase,2020-11-11,Action,Oscar Wilde,Jason Statham,"150,500,140,8.2",Best Stunt Coordination
-16,The Forgotten Tale,2016-07-04,Drama,Pamela Anderson,Brad Pitt,"45,200,125,7.3",Best Screenplay
-17,Crystal Vision,2022-05-05,Documentary,Quentin Tarantino,None,"15,60,90,6.5",None
-18,Neon Nights,2017-12-20,Thriller,Rachel Green,Ryan Reynolds,"80,220,130,7.7",Best Editing
-19,Infinite Loop,2018-09-14,Sci-Fi,Sarah Connor,Tom Hanks,"160,600,150,8.4",Best Visual Effects
-20,Golden Horizon,2019-04-25,Adventure,Thomas Shelby,Chris Evans,"100,300,140,7.9",Best Adventure
-21,Lunar Eclipse,2020-03-30,Sci-Fi,Uma Thurman,Gal Gadot,"140,450,145,8.1",Best Sound Mixing
-22,Whispering Pines,2016-02-18,Drama,Victor Hugo,Angelina Jolie,"35,100,115,7.1",Best Supporting Actress
-23,The Great Escape,2018-08-08,Action,Wendy Darling,Chris Pine,"130,400,155,8.0",Best Action
-24,Serenity Now,2019-12-12,Romance,Xander Cage,Emma Watson,"60,200,120,7.5",Best Costume Design
-25,The Enigma Code,2021-07-07,Mystery,Yara Greyjoy,Henry Cavill,"50,160,125,7.6",Best Mystery
-26,Thunder Strike,2017-05-25,Action,Zack Morris,Idris Elba,"170,600,150,8.3",Best Sound Editing
-27,Emerald Forest,2020-10-10,Adventure,Ava Gardner,Sophia Perez,"95,250,135,7.8",Best Visual Effects
-28,Dark Waters,2016-09-09,Thriller,Bruce Wayne,Amanda Collins,Bryan Cranston,"80,190,130,7.7",Best Thriller
-29,Sunset Boulevard,2018-11-11,Drama,Clark Kent,Evelyn Ramirez,Margot Robbie,"55,140,120,7.4",Best Cinematography
-30,Iron Fist,2019-03-03,Action,Derek Shepherd,Robert Downey Jr.,"200,700,160,8.5",Best Action
-31,Crystal Vision,2021-08-18,Sci-Fi,Elena Gilbert,Scarlett Johansson,"180,500,145,8.0",Best Visual Effects
-32,The Lost City,2017-10-20,Adventure,Frank Underwood,Chadwick Boseman,"100,350,140,7.9",Best Adventure
-33,Silent Thunder,2020-06-06,Drama,Grace Hopper,Daniel Craig,"65,180,125,7.5",Best Supporting Actor
-34,Quantum Leap,2019-05-15,Sci-Fi,Hannah Montana,Tom Holland,"150,420,150,8.2",Best Sci-Fi
-35,Moonlight Sonata,2018-04-04,Romance,Ian Malcolm,Emma Stone,"40,100,115,7.3",Best Romance
-36,The Final Frontier,2022-02-22,Sci-Fi,Jack Sparrow,Chris Pratt,"210,750,160,8.6",Best Director
-37,Hidden Truths,2016-12-12,Mystery,Kate Austen,Jessica Chastain,"45,130,120,7.2",Best Mystery
-38,Desert Mirage,2017-07-07,Adventure,Luke Cage,Ethan Hughes,"120,350,140,7.8",Best Visual Effects
-39,Storm Breaker,2018-02-02,Action,Mia Wallace,Mark Ruffalo,"160,480,150,8.1",Best Action
-40,Ocean's Whisper,2019-01-01,Drama,Nora Roberts,Anne Hathaway,"70,180,130,7.6",Best Drama
-41,The Silent Storm,2020-09-09,Horror,Olivia Benson,Jamie Lee Curtis,"55,160,125,7.0",Best Horror
-42,Galactic Voyage,2021-04-04,Sci-Fi,Peter Parker,Tom Cruise,"220,850,165,8.7",Best Visual Effects
-43,Midnight Sun,2016-08-08,Romance,Quincy Adams,Scarlett Johansson,"50,150,120,7.5",Best Romance
-44,Shadow Dance,2017-03-03,Thriller,Rachel Green,Benedict Cumberbatch,"90,220,135,7.9",Best Thriller
-45,Crystal Falls,2018-06-06,Adventure,Steve Rogers,Leonardo DiCaprio,"130,400,145,8.0",Best Adventure
-46,The Last Horizon,2019-11-11,Action,Tony Stark,Samantha Price,"180,550,155,8.4",Best Action
-47,Neon Dreams,2020-08-08,Sci-Fi,Uma Thurman,Gal Gadot,"140,380,140,8.1",Best Visual Effects
-48,Silent Shadows,2021-05-05,Horror,Vincent Vega,Daniel Craig,"60,160,125,7.3",Best Horror
-49,The Great Beyond,2016-04-04,Adventure,Walter White,Mark Wahlberg,"110,300,150,7.8",Best Adventure
-50,Quantum Realm,2017-09-09,Sci-Fi,Xander Cage,Mason Reed,"200,600,160,8.5",Best Sci-Fi
+1,Sunrise Boulevard,2018-01-15,Drama,Alan Smithee,Emma Stone,20,150,120,8.2,Best Drama
+2,Galactic Odyssey,2020-05-22,Sci-Fi,Betty White,Chris Evans,180,600,140,8.5,Best Visual Effects
+3,Mystery Mansion,2019-10-30,Mystery,Charles Brown,Daniel Craig,50,200,130,7.8,Best Mystery
+4,Love in Tokyo,2021-02-14,Romance,Diana Prince,Anne Hathaway,30,120,110,7.5,Best Romance
+5,The Final Battle,2017-11-22,Action,Ethan Hunt,Tom Cruise,200,800,150,8.7,Best Action
+6,Future Horizons,2022-01-10,Sci-Fi,Fiona Gallagher,Scarlett Johansson,150,500,135,8.0,Best Sci-Fi
+7,Haunted House,2016-10-31,Horror,George Lucas,Jamie Lee Curtis,40,100,100,6.9,Best Horror
+8,Ocean's Melody,2018-06-18,Adventure,Hannah Montana,Leonardo DiCaprio,70,250,125,8.1,Best Adventure
+9,Urban Myths,2019-09-05,Horror,Ian Fleming,Jennifer Lawrence,60,180,115,7.0,Best Sound Editing
+10,Silent Echoes,2020-12-25,Thriller,Jake Long,Benedict Cumberbatch,55,160,120,7.6,Best Thriller
+11,Desert Storm,2017-04-10,War,Karen Page,Mark Wahlberg,120,400,155,7.9,Best War
+12,Autumn Leaves,2021-10-01,Romance,Liam Neeson,Mila Kunis,25,90,100,7.4,Best Cinematography
+13,Space Frontier,2018-03-22,Sci-Fi,Mary Jane,Chris Hemsworth,220,850,160,8.7,Best Director
+14,Shadow Realm,2019-08-30,Fantasy,Nancy Drew,Robert Downey Jr.,95,300,135,7.8,Best Makeup
+15,Midnight Chase,2020-11-11,Action,Oscar Wilde,Jason Statham,150,500,140,8.2,Best Stunt Coordination
+16,The Forgotten Tale,2016-07-04,Drama,Pamela Anderson,Brad Pitt,45,200,125,7.3,Best Screenplay
+17,Crystal Vision,2022-05-05,Documentary,Quentin Tarantino,None,15,60,90,6.5,None
+18,Neon Nights,2017-12-20,Thriller,Rachel Green,Ryan Reynolds,80,220,130,7.7,Best Editing
+19,Infinite Loop,2018-09-14,Sci-Fi,Sarah Connor,Tom Hanks,160,600,150,8.4,Best Visual Effects
+20,Golden Horizon,2019-04-25,Adventure,Thomas Shelby,Chris Evans,100,300,140,7.9,Best Adventure
+21,Lunar Eclipse,2020-03-30,Sci-Fi,Uma Thurman,Gal Gadot,140,450,145,8.1,Best Sound Mixing
+22,Whispering Pines,2016-02-18,Drama,Victor Hugo,Angelina Jolie,35,100,115,7.1,Best Supporting Actress
+23,The Great Escape,2018-08-08,Action,Wendy Darling,Chris Pine,130,400,155,8.0,Best Action
+24,Serenity Now,2019-12-12,Romance,Xander Cage,Emma Watson,60,200,120,7.5,Best Costume Design
+25,The Enigma Code,2021-07-07,Mystery,Yara Greyjoy,Henry Cavill,50,160,125,7.6,Best Mystery
+26,Thunder Strike,2017-05-25,Action,Zack Morris,Idris Elba,170,600,150,8.3,Best Sound Editing
+27,Emerald Forest,2020-10-10,Adventure,Ava Gardner,Sophia Perez,95,250,135,7.8,Best Visual Effects
+28,Dark Waters,2016-09-09,Thriller,Bruce Wayne,"Amanda Collins,Bryan Cranston",80,190,130,7.7,Best Thriller
+29,Sunset Boulevard,2018-11-11,Drama,Clark Kent,"Evelyn Ramirez,Margot Robbie",55,140,120,7.4,Best Cinematography
+30,Iron Fist,2019-03-03,Action,Derek Shepherd,Robert Downey Jr.,200,700,160,8.5,Best Action
+31,Crystal Vision,2021-08-18,Sci-Fi,Elena Gilbert,Scarlett Johansson,180,500,145,8.0,Best Visual Effects
+32,The Lost City,2017-10-20,Adventure,Frank Underwood,Chadwick Boseman,100,350,140,7.9,Best Adventure
+33,Silent Thunder,2020-06-06,Drama,Grace Hopper,Daniel Craig,65,180,125,7.5,Best Supporting Actor
+34,Quantum Leap,2019-05-15,Sci-Fi,Hannah Montana,Tom Holland,150,420,150,8.2,Best Sci-Fi
+35,Moonlight Sonata,2018-04-04,Romance,Ian Malcolm,Emma Stone,40,100,115,7.3,Best Romance
+36,The Final Frontier,2022-02-22,Sci-Fi,Jack Sparrow,Chris Pratt,210,750,160,8.6,Best Director
+37,Hidden Truths,2016-12-12,Mystery,Kate Austen,Jessica Chastain,45,130,120,7.2,Best Mystery
+38,Desert Mirage,2017-07-07,Adventure,Luke Cage,Ethan Hughes,120,350,140,7.8,Best Visual Effects
+39,Storm Breaker,2018-02-02,Action,Mia Wallace,Mark Ruffalo,160,480,150,8.1,Best Action
+40,Ocean's Whisper,2019-01-01,Drama,Nora Roberts,Anne Hathaway,70,180,130,7.6,Best Drama
+41,The Silent Storm,2020-09-09,Horror,Olivia Benson,Jamie Lee Curtis,55,160,125,7.0,Best Horror
+42,Galactic Voyage,2021-04-04,Sci-Fi,Peter Parker,Tom Cruise,220,850,165,8.7,Best Visual Effects
+43,Midnight Sun,2016-08-08,Romance,Quincy Adams,Scarlett Johansson,50,150,120,7.5,Best Romance
+44,Shadow Dance,2017-03-03,Thriller,Rachel Green,Benedict Cumberbatch,90,220,135,7.9,Best Thriller
+45,Crystal Falls,2018-06-06,Adventure,Steve Rogers,Leonardo DiCaprio,130,400,145,8.0,Best Adventure
+46,The Last Horizon,2019-11-11,Action,Tony Stark,Samantha Price,180,550,155,8.4,Best Action
+47,Neon Dreams,2020-08-08,Sci-Fi,Uma Thurman,Gal Gadot,140,380,140,8.1,Best Visual Effects
+48,Silent Shadows,2021-05-05,Horror,Vincent Vega,Daniel Craig,60,160,125,7.3,Best Horror
+49,The Great Beyond,2016-04-04,Adventure,Walter White,Mark Wahlberg,110,300,150,7.8,Best Adventure
+50,Quantum Realm,2017-09-09,Sci-Fi,Xander Cage,Mason Reed,200,600,160,8.5,Best Sci-Fi
