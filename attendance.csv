@@ -1,0 +1,7 @@
+Date,EmployeeID,Status
+2025-01-01,101,Present
+2025-01-01,102,Absent
+2025-01-01,103,Late
+2025-01-02,101,Present
+2025-01-02,102,Present
+2025-01-02,103,Absent
